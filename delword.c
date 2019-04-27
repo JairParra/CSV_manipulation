@@ -1,6 +1,8 @@
 /**
  * Author: Hair Albeiro Parra Barrera
- * The following program will scan a CSV file and 
+ * The following program will scan a CSV file and delete all occurrences 
+ * of "WORD". A sample CSV file can be found as "sample.txt". 
+ * Please place this file under the same directory as the delword.c file. 
  * */ 
 
 #include <stdio.h> 
