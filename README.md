@@ -1,2 +1,2 @@
 # CSV_manipulation
-Various CSV file manipulation programs. 
+Various CSV file manipulation programs in the C language. 
